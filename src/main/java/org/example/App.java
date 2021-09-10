@@ -35,6 +35,6 @@ public class App
         {
             System.out.println("You will need to purchase" + numPaintInt + " gallons of paint to cover " + area + " square feet.");
         }
-
+        sc.close();
     }
 }
